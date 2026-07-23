@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://chickenroad-game-333.pages.dev/sitemap.xml
+Sitemap: https://chickenroad-game-333-5y7.pages.dev/sitemap.xml
